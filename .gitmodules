@@ -10,3 +10,9 @@
 [submodule "ZPrize-23-Prize1"]
 	path = ZPrize-23-Prize1
 	url = https://github.com/ethstorage/ZPrize-23-Prize1
+[submodule "fpga_ponos_submission"]
+	path = fpga_ponos_submission
+	url = https://github.com/cysic-janitor/fpga_ponos_submission
+[submodule "gpu_trapdoor_submission"]
+	path = gpu_trapdoor_submission
+	url = https://github.com/cysic-janitor/gpu_trapdoor_submission
