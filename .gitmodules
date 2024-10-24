@@ -1,6 +1,3 @@
-[submodule "zp1"]
-	path = zp1
-	url = https://github.com/cysic-janitor/zp1
 [submodule "zprize-2023-prize1b"]
 	path = zprize-2023-prize1b
 	url = https://github.com/cysic-janitor/zprize-2023-prize1b
