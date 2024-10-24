@@ -1,9 +1,6 @@
 [submodule "zprize-2023-prize1b"]
 	path = zprize-2023-prize1b
 	url = https://github.com/cysic-janitor/zprize-2023-prize1b
-[submodule "ZPrize-23-Prize1-1B-commit"]
-	path = ZPrize-23-Prize1-1B-commit
-	url = https://github.com/cysic-janitor/ZPrize-23-Prize1-1B-commit
 [submodule "zprize-2024-prize-1B"]
 	path = zprize-2024-prize-1B
 	url = https://github.com/cysic-janitor/zprize-2024-prize-1B
