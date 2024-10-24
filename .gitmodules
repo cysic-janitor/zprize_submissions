@@ -4,12 +4,6 @@
 [submodule "zprize-2024-prize-1B"]
 	path = zprize-2024-prize-1B
 	url = https://github.com/cysic-janitor/zprize-2024-prize-1B
-[submodule "ZPrize23-gpu-submission"]
-	path = ZPrize23-gpu-submission
-	url = https://github.com/PNP-team/ZPrize23-gpu-submission
-[submodule "ZPrize-23-Prize1"]
-	path = ZPrize-23-Prize1
-	url = https://github.com/ethstorage/ZPrize-23-Prize1
 [submodule "fpga_ponos_submission"]
 	path = fpga_ponos_submission
 	url = https://github.com/cysic-janitor/fpga_ponos_submission
