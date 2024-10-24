@@ -6,6 +6,8 @@ This repo contains all the submission repos of zprize. All the submitted repos a
 
 After cloned this repo, you can use command `git submodule update --init --recursive` to get all the submitted repos, and you can navigate to each repo to see its commit logs.
 
+In order to clone all the submodules, make sure you have read access to them. Currently, only cysic-janitor account has read access to all of them.
+
 # Summary
 
 | Name & git link                                              | Aromatized proof time(s) | GPU Total energe(Joules) | GPU Average power(Watts) | CPU Total Energe(Joules) | CPU Average power(watt) |
