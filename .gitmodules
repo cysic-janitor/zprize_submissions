@@ -10,3 +10,6 @@
 [submodule "gpu_trapdoor_submission"]
 	path = gpu_trapdoor_submission
 	url = https://github.com/cysic-janitor/gpu_trapdoor_submission
+[submodule "gpu_snarkify_submission"]
+	path = gpu_snarkify_submission
+	url = https://github.com/cysic-janitor/gpu_snarkify_submission
