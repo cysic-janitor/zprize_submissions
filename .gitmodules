@@ -13,3 +13,6 @@
 [submodule "gpu_snarkify_submission"]
 	path = gpu_snarkify_submission
 	url = https://github.com/cysic-janitor/gpu_snarkify_submission
+[submodule "gpu_mikevoronov_submission"]
+	path = gpu_mikevoronov_submission
+	url = https://github.com/cysic-janitor/gpu_mikevoronov_submission
